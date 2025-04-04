@@ -58,4 +58,3 @@ adb shell pm list packages | grep .go  # 查看预装的 Go 版应用（如 com.
 在编译Android 12+系统时，在./build.sh的编译选项中一般会有一个`-C`选项，这个`-C`选项的编译说明为：**Build kernel with Clang**，
 
 #### 3.2 Clang的概念
-
